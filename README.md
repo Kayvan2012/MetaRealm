@@ -1,2 +1,1 @@
 # MetaRealm
-mkdir ~/metarealm
